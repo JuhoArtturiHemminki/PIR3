@@ -38,7 +38,7 @@ An apparatus as claimed in Claim 1, wherein the elimination of air-damping enabl
 ### Claim 5: The "Avy" Cold-Start & Governance Logic (LS-X5)
 An autonomous, zero-power governance circuit (LS-X5) integrated with the MPS stack, characterized by:
 1. **Avalanche Triggering:** Using a high-speed avalanche diode bridge that breaks down within $< 500$ picoseconds upon receiving the primary piezoelectric wavefront.
-2. **Bootstrap Logic:** Utilizing the first 0.1 mJ of the discharge to saturate the gates of a synchronous MOSFET rectification bridge, eliminating the standard $0.7$V diode forward voltage drop.
+2. **Bootstrap Logic:** Utilizing the first 0.1 mJ of the discharge to saturate the gates of a synchronous MOSFET rectification bridge, eliminating the standard 0.7V diode forward voltage drop.
 3. **Dynamic Impedance Tracking:** Real-time adjustment of the electrical load to match the instantaneous mechanical impedance of the vacuum-bound cantilever.
 
 ### Claim 6: Liquid Metal Acoustic Interface (LMI)
