@@ -17,7 +17,7 @@ The LS-X5 is a multi-stage energy management processor designed to act as the "b
 The efficiency of the LS-X5 is governed by the relationship between the mechanical snap-speed and the piezoelectric charge displacement.
 
 ### 2.1 The Harvest Equation (Total Net Yield)
-The net electrical yield ($E_{net}$) for each snap cycle is defined by the integral of the instantaneous power ($P(t)$) over the duration of the high-Q pulse train:
+The net electrical yield ($E_{net}$) for each snap cycle is defined by the integral of the instantaneous power ($P{t}$) over the duration of the high-Q pulse train:
 
 $$E_{net} = \eta_{trans} \int_{0}^{\tau_{res}} \left[ V_{pzt}(t) \cdot I_{pzt}(t) - P_{gate}(t) \right] dt$$
 
